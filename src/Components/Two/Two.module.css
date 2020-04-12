@@ -1,0 +1,26 @@
+.container{
+    margin: 50px 0;
+}
+
+.card{
+    margin: 0 2% !important;
+}
+
+.one{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.two{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.three{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.four{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.five{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.six{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}

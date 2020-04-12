@@ -1,0 +1,21 @@
+.steps{
+    margin: 50px 0;
+    float: left;
+padding: 8px;
+}
+
+.card{
+    margin: 0 2% !important;
+}
+.one{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.two{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.three{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+.Four{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
