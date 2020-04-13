@@ -32,7 +32,10 @@ this.setState({ data: fetchedData, country: country });
                 <Chart data={data} country={country}/>
                 <One />
                 <Two />
-                <h1 className={styles.fott}>THIS SITE WAS DEVELOPED BY ZAID AHMAD</h1>
+            </div>
+            <div className={styles.fott}>
+                <h1 className={styles.one}>THIS SITE WAS DEVELOPED BY ZAIDDEV™</h1>
+                <h2 className={styles.rights}>All rights reserved ZAIDDEV|2020®</h2>
             </div>
         )
     }
