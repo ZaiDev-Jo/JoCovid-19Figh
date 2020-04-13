@@ -33,12 +33,8 @@ this.setState({ data: fetchedData, country: country });
                 <One />
                 <Two />
             </div>
-            <div className={styles.fott}>
-                <h1 className={styles.one}>THIS SITE WAS DEVELOPED BY ZAIDDEV™</h1>
-                <h2 className={styles.rights}>All rights reserved ZAIDDEV|2020®</h2>
-            </div>
         )
     }
-}
+};
 
 export default App;
