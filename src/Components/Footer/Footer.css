@@ -1,0 +1,23 @@
+footer{
+    height: 76px;
+    background-color: black;
+    width: 100%;
+    margin-right: 945px;
+}
+.developed{
+float: left;
+font-size: 20px;
+color: white;
+text-align: center;
+padding: 5px;
+}
+.columns{
+    display: list-item;
+    list-style: none;
+    color: white;
+    font-size: 19px;
+    float: right;
+text-align: center;
+margin-top: -15px;
+padding: 5px;
+}

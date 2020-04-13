@@ -4,7 +4,7 @@ import { Cards, Chart, CountryPicker, One, Two} from './Components';
 import styles from'./App.module.css';
 import { fetchData } from './api';
 import image from './Components/images/image1.png';
-
+import Footer from './Components/Footer/Footer';
 class App extends React.Component {
 state = {
     data: {},
@@ -32,6 +32,7 @@ this.setState({ data: fetchedData, country: country });
                 <Chart data={data} country={country}/>
                 <One />
                 <Two />
+                <Footer />
             </div>
         )
     }
